@@ -15,6 +15,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Videos](#videos)
+* [Tools](#tools)
+* [Kits](#kits)
+* [Courses](#courses)
 
 ## Apps
 
@@ -40,6 +43,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
+* [MoneyTracker](https://moneytracker.cc/)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [Paytm Lite](https://paytm.com/)
@@ -56,6 +60,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com)
 * [Taskade](https://www.taskade.com)
 * [TeamGrid](https://www.teamgridapp.com)
+* [Tinder](https://tinder.com/)
 * [Topple Trump!](https://toppletrump.com/)
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
@@ -92,6 +97,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Articles
 
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
+* [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
@@ -113,6 +119,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
+* [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 
 ## Videos
 
@@ -197,7 +204,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Kits
 
-* [`Angular Mobile Toolkit`](https://mobile.angular.io/): Tools for building progressive web apps with Angular.
+* [`Angular Mobile Toolkit`](https://github.com/angular/mobile-toolkit): Tools for building progressive web apps with Angular.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
+
+## Courses
+
+* [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
+* [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
+* [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
