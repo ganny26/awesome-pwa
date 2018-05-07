@@ -22,6 +22,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
+* [A fresher selection of Progressive Web Apps](https://outweb.io/)
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
@@ -34,11 +35,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Dev.Opera](https://dev.opera.com/)
 * [DevSpace](https://app.devspace.io/)
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
+* [Exterium](https://www.extrange-labs.com/exterium/)
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [Flipkart Lite](http://www.flipkart.com) ([eng blog post](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883), [case study](https://developers.google.com/web/showcase/2016/flipkart))
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
+* [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
 * [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
